@@ -10,7 +10,8 @@ namespace C__Practice_2
     {
         static void Main(string[] args)
         {
-            
+
+            Console.WriteLine("-----Loops------");
        Console.WriteLine("Display Sum of 10 Natural number with while and for loop ");
           
 
